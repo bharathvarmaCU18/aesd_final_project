@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/vbharath/aesd_final_project/build/tmp
+SSTATE_DIR /home/vbharath/Yocto/sstate_dir
+NATIVELSBSTRING ubuntu-22.04
